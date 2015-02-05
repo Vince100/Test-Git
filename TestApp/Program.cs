@@ -10,6 +10,10 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome");
+
+            Console.WriteLine("Hit return to terminate");
+            Console.ReadLine();
         }
     }
 }
