@@ -11,6 +11,7 @@ namespace TestApp
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome!!!");
+            // Hotfix 1 code
 
             TestMain testMain = new TestMain();
             testMain.DoTheJob();
