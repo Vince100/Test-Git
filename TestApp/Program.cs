@@ -6,11 +6,14 @@ using System.Threading.Tasks;
 
 namespace TestApp
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome!!!");
+
+            TestMain testMain = new TestMain();
+            testMain.DoTheJob();
 
             Console.WriteLine("Hit return to terminate");
             Console.ReadLine();
