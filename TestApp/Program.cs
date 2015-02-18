@@ -15,6 +15,8 @@ namespace TestApp
             TestMain testMain = new TestMain();
             testMain.DoTheJob();
 
+            // Added Sprint 2 functionality Blabla
+
             Console.WriteLine("Hit return to terminate");
             Console.ReadLine();
         }
