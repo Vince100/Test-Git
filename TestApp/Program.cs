@@ -13,6 +13,8 @@ namespace TestApp
             Console.WriteLine("Welcome!!!");
             // Hotfix 1 code
 
+            // Implement new feature
+
             TestMain testMain = new TestMain();
             testMain.DoTheJob();
 
