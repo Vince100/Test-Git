@@ -14,7 +14,7 @@ namespace TestApp
             // Hotfix 1 code
 
             // Implement new feature
-
+            // Issue 2
             TestMain testMain = new TestMain();
             testMain.DoTheJob();
 
