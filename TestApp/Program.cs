@@ -16,6 +16,7 @@ namespace TestApp
             // Implement new feature
             // Issue 2 
             TestMain testMain = new TestMain();
+
             testMain.DoTheJob();
 
             Console.WriteLine("Hit return to terminate");
